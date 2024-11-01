@@ -1,52 +1,42 @@
-# Prerequisites
-*.d
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Archivos de compilación de .NET
+bin/
+obj/
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Paquetes NuGet
+*.nupkg
+# Archivos de bloqueo
+project.lock.json
+project.fragment.lock.json
 
-# Precompiled Headers
-*.gch
-*.pch
+# Logs y reports
+*.log
+*.report
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Datos de publicación
+.publish/
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Configuración local
+appsettings.Development.json
+.env
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
+# Archivos de caché y configuración
 *.pdb
+*.mdb
+*.ilk
+*.idb
+*.aps
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Archivos de Rider
+.idea/
+*.sln.iml
+
+# Archivos de VS Code
+.vscode/
+
