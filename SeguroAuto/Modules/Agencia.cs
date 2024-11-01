@@ -10,16 +10,14 @@ namespace SeguroAuto
     class Agencia
     {
         public List<Ticket> Atendidos = new List<Ticket>();
-        
-        private List<Vehiculo> listVehiculos = new List<Vehiculo>();
 
-        public void verVehiculo()
+        public List<Vehiculo> listVehiculos { get; private set; } = new List<Vehiculo>();
+
+        public void agregarVehiculo(Vehiculo cliente)
         {
-            listVehiculos.Add(new Vehiculo("ABC123", new Cliente("50000000")));
-            listVehiculos.Add(new Vehiculo("ABC123", new Cliente("50000001")));
-            listVehiculos.Add(new Vehiculo("ABC123", new Cliente("50000002")));
-            listVehiculos.Add(new Vehiculo("ABC123", new Cliente("50000003")));
+            listVehiculos.Add(cliente);
 
+            
         }
 
         //  Colas clientes 

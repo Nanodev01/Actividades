@@ -30,18 +30,18 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.cbTipo = new System.Windows.Forms.ComboBox();
+            this.tbPatente = new System.Windows.Forms.TextBox();
+            this.rbDenuncia = new System.Windows.Forms.RadioButton();
+            this.rbNCliente = new System.Windows.Forms.RadioButton();
             this.btnTicket = new System.Windows.Forms.Button();
             this.btnAtenderDenuncias = new System.Windows.Forms.Button();
             this.btnAtenderCliente = new System.Windows.Forms.Button();
             this.btnExport = new System.Windows.Forms.Button();
             this.btnImport = new System.Windows.Forms.Button();
             this.tbDni = new System.Windows.Forms.TextBox();
-            this.rbDenuncia = new System.Windows.Forms.RadioButton();
-            this.rbNCliente = new System.Windows.Forms.RadioButton();
-            this.tbPatente = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.lbxTurnos = new System.Windows.Forms.ListBox();
-            this.cbTipo = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -68,6 +68,52 @@
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos del Cliente";
+            // 
+            // cbTipo
+            // 
+            this.cbTipo.FormattingEnabled = true;
+            this.cbTipo.Items.AddRange(new object[] {
+            "1- Auto",
+            "2- Moto",
+            "3- Equipo de trabajo",
+            "4- Bicicleta"});
+            this.cbTipo.Location = new System.Drawing.Point(129, 87);
+            this.cbTipo.Name = "cbTipo";
+            this.cbTipo.Size = new System.Drawing.Size(127, 21);
+            this.cbTipo.TabIndex = 10;
+            this.cbTipo.Text = "Tipo";
+            // 
+            // tbPatente
+            // 
+            this.tbPatente.Location = new System.Drawing.Point(129, 52);
+            this.tbPatente.Name = "tbPatente";
+            this.tbPatente.Size = new System.Drawing.Size(127, 21);
+            this.tbPatente.TabIndex = 6;
+            this.tbPatente.Text = "Patente";
+            // 
+            // rbDenuncia
+            // 
+            this.rbDenuncia.AutoSize = true;
+            this.rbDenuncia.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rbDenuncia.Location = new System.Drawing.Point(12, 53);
+            this.rbDenuncia.Name = "rbDenuncia";
+            this.rbDenuncia.Size = new System.Drawing.Size(85, 17);
+            this.rbDenuncia.TabIndex = 6;
+            this.rbDenuncia.TabStop = true;
+            this.rbDenuncia.Text = "Denuncia";
+            this.rbDenuncia.UseVisualStyleBackColor = true;
+            // 
+            // rbNCliente
+            // 
+            this.rbNCliente.AutoSize = true;
+            this.rbNCliente.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rbNCliente.Location = new System.Drawing.Point(12, 87);
+            this.rbNCliente.Name = "rbNCliente";
+            this.rbNCliente.Size = new System.Drawing.Size(115, 17);
+            this.rbNCliente.TabIndex = 7;
+            this.rbNCliente.TabStop = true;
+            this.rbNCliente.Text = "Nuevo Cliente";
+            this.rbNCliente.UseVisualStyleBackColor = true;
             // 
             // btnTicket
             // 
@@ -124,38 +170,6 @@
             this.tbDni.Size = new System.Drawing.Size(249, 21);
             this.tbDni.TabIndex = 5;
             // 
-            // rbDenuncia
-            // 
-            this.rbDenuncia.AutoSize = true;
-            this.rbDenuncia.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbDenuncia.Location = new System.Drawing.Point(12, 53);
-            this.rbDenuncia.Name = "rbDenuncia";
-            this.rbDenuncia.Size = new System.Drawing.Size(85, 17);
-            this.rbDenuncia.TabIndex = 6;
-            this.rbDenuncia.TabStop = true;
-            this.rbDenuncia.Text = "Denuncia";
-            this.rbDenuncia.UseVisualStyleBackColor = true;
-            // 
-            // rbNCliente
-            // 
-            this.rbNCliente.AutoSize = true;
-            this.rbNCliente.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbNCliente.Location = new System.Drawing.Point(12, 87);
-            this.rbNCliente.Name = "rbNCliente";
-            this.rbNCliente.Size = new System.Drawing.Size(115, 17);
-            this.rbNCliente.TabIndex = 7;
-            this.rbNCliente.TabStop = true;
-            this.rbNCliente.Text = "Nuevo Cliente";
-            this.rbNCliente.UseVisualStyleBackColor = true;
-            // 
-            // tbPatente
-            // 
-            this.tbPatente.Location = new System.Drawing.Point(129, 52);
-            this.tbPatente.Name = "tbPatente";
-            this.tbPatente.Size = new System.Drawing.Size(127, 21);
-            this.tbPatente.TabIndex = 6;
-            this.tbPatente.Text = "Patente";
-            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -172,20 +186,6 @@
             this.lbxTurnos.Name = "lbxTurnos";
             this.lbxTurnos.Size = new System.Drawing.Size(325, 186);
             this.lbxTurnos.TabIndex = 9;
-            // 
-            // cbTipo
-            // 
-            this.cbTipo.FormattingEnabled = true;
-            this.cbTipo.Items.AddRange(new object[] {
-            "1- Auto",
-            "2- Moto",
-            "3- Equipo de trabajo",
-            "4- Bicicleta"});
-            this.cbTipo.Location = new System.Drawing.Point(129, 87);
-            this.cbTipo.Name = "cbTipo";
-            this.cbTipo.Size = new System.Drawing.Size(127, 21);
-            this.cbTipo.TabIndex = 10;
-            this.cbTipo.Text = "Tipo";
             // 
             // Form1
             // 
@@ -206,6 +206,8 @@
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "Form1";
             this.Text = "Aseguradora";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

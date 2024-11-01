@@ -25,7 +25,7 @@ namespace SeguroAuto
             return owner;
         }
 
-        private string VerPatente()
+        public string VerPatente()
         { return nroPatente; }
 
         public int CompareTo(Vehiculo otro)
