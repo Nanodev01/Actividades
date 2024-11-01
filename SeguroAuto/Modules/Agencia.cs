@@ -12,7 +12,15 @@ namespace SeguroAuto
         public List<Ticket> Atendidos = new List<Ticket>();
         
         private List<Vehiculo> listVehiculos = new List<Vehiculo>();
-        
+
+        public void verVehiculo()
+        {
+            listVehiculos.Add(new Vehiculo("ABC123", new Cliente("50000000")));
+            listVehiculos.Add(new Vehiculo("ABC123", new Cliente("50000001")));
+            listVehiculos.Add(new Vehiculo("ABC123", new Cliente("50000002")));
+            listVehiculos.Add(new Vehiculo("ABC123", new Cliente("50000003")));
+
+        }
 
         //  Colas clientes 
         private Queue<Denuncia> Denuncias = new Queue<Denuncia>();
@@ -20,10 +28,20 @@ namespace SeguroAuto
 
         private Queue<Cliente> NuevosClientes = new Queue<Cliente>();
 
-        public void AgregarTicket(Ticket turno)
+        public Ticket AgregarTicket(Ticket turno)
         {
-            if (turno is Denuncia) Denuncias.Enqueue((Denuncia)turno);
-            if (turno is Cliente) NuevosClientes.Enqueue((Cliente)turno);
+            if (turno is Denuncia) 
+            {
+                Denuncias.Enqueue((Denuncia)turno);
+                
+            }
+            if (turno is Cliente) 
+            {
+                NuevosClientes.Enqueue((Cliente)turno);
+                
+            } 
+
+            return turno;
             
         }
 

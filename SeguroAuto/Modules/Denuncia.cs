@@ -18,6 +18,10 @@ namespace SeguroAuto
             numero++;
         }
 
+        public override string ToString()
+        {
+            return dominio.ToString();
+        }
 
     }
 }

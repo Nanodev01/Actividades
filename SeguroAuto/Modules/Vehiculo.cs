@@ -16,6 +16,7 @@ namespace SeguroAuto
         { 
             this.nroPatente = nroPatente;
             this.owner= owner;
+            
         }
 
         public Cliente verOwner()

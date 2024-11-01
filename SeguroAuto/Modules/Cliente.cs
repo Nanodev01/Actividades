@@ -15,7 +15,7 @@ namespace SeguroAuto
 
         public Cliente(string dni)
         {
-
+            fechaHora = DateTime.Now;
             try
             {
                 long aux = Convert.ToInt64(dni);
@@ -45,7 +45,7 @@ namespace SeguroAuto
         }
         public override string ToString()
         {
-            return "Cliente: " + dni.ToString();
+            return fechaHora.ToString() +"|| Cliente: " + dni.ToString();
         }
     }
 }

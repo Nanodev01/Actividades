@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\",
+  "WorkspaceRootPath": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|c:\\users\\nano\\source\\repos\\seguroauto\\modules\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:modules\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|c:\\users\\nano\\source\\repos\\seguroauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|c:\\users\\nano\\source\\repos\\seguroauto\\exceptions\\dniexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:exceptions\\dniexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|c:\\users\\nano\\source\\repos\\seguroauto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|c:\\users\\nano\\source\\repos\\seguroauto\\modules\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:modules\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|c:\\users\\nano\\source\\repos\\seguroauto\\modules\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\modules\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:modules\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|c:\\users\\nano\\source\\repos\\seguroauto\\modules\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|c:\\users\\nano\\desktop\\facu\\repaso\\seguroauto\\modules\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:modules\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\modules\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:modules\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|c:\\users\\nano\\source\\repos\\seguroauto\\modules\\denuncia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\modules\\denuncia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:modules\\denuncia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\modules\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:modules\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01A46714-4EBE-42C3-A014-A47CB410D649}|SeguroAuto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowEEAAAABAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDMAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T04:34:54.46Z",
               "EditorCaption": ""
@@ -60,48 +56,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Agencia.cs",
+              "DocumentMoniker": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Agencia.cs",
+              "RelativeDocumentMoniker": "Modules\\Agencia.cs",
+              "ToolTip": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Agencia.cs",
+              "RelativeToolTip": "Modules\\Agencia.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T01:57:19.655Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DniException.cs",
-              "DocumentMoniker": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Exceptions\\DniException.cs",
-              "RelativeDocumentMoniker": "Exceptions\\DniException.cs",
-              "ToolTip": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Exceptions\\DniException.cs",
-              "RelativeToolTip": "Exceptions\\DniException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T02:22:56.32Z",
+              "WhenOpened": "2024-11-01T01:59:16.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Cliente.cs",
               "RelativeDocumentMoniker": "Modules\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Cliente.cs",
               "RelativeToolTip": "Modules\\Cliente.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAiAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T01:59:13.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Ticket.cs",
               "RelativeDocumentMoniker": "Modules\\Ticket.cs",
-              "ToolTip": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Ticket.cs",
               "RelativeToolTip": "Modules\\Ticket.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,42 +94,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Denuncia.cs",
-              "DocumentMoniker": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Denuncia.cs",
+              "DocumentMoniker": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Denuncia.cs",
               "RelativeDocumentMoniker": "Modules\\Denuncia.cs",
-              "ToolTip": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Denuncia.cs",
+              "ToolTip": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Denuncia.cs",
               "RelativeToolTip": "Modules\\Denuncia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T01:59:06.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Vehiculo.cs",
               "RelativeDocumentMoniker": "Modules\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Modules\\Vehiculo.cs",
               "RelativeToolTip": "Modules\\Vehiculo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAApAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T01:58:57.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Agencia.cs",
-              "DocumentMoniker": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Agencia.cs",
-              "RelativeDocumentMoniker": "Modules\\Agencia.cs",
-              "ToolTip": "C:\\Users\\Nano\\source\\repos\\SeguroAuto\\Modules\\Agencia.cs",
-              "RelativeToolTip": "Modules\\Agencia.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABCAAAA",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Nano\\Desktop\\Facu\\Repaso\\SeguroAuto\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T01:59:16.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T01:57:19.655Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

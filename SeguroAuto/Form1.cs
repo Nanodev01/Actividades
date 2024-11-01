@@ -43,15 +43,15 @@ namespace SeguroAuto
                 {
                     Cliente cliente = new Cliente(tbDni.Text);
                     Vehiculo a = new Vehiculo(tbPatente.Text, cliente);
-                    Ticket ticket = new Denuncia(a);
-                    agencia.AgregarTicket(ticket);
-                    lbxTurnos.Items.Add(a);
+                    Ticket ticket = agencia.AgregarTicket(new Denuncia(a));
+                    lbxTurnos.Items.Add(ticket);
                 }
                 else
                 {
-                    Cliente cliente = new Cliente(tbDni.Text);
+                    Cliente cliente = new  Cliente(tbDni.Text);
                     Vehiculo b = new Vehiculo(tbPatente.Text, cliente);
-                    Ticket ticket = new Denuncia(b);
+                    Ticket ticket = agencia.AgregarTicket(cliente);
+                    
                     agencia.AgregarTicket(ticket);
                 }
 
