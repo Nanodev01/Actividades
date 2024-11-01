@@ -1,0 +1,10 @@
+C:\Users\Nano\source\repos\SeguroAuto\obj\Debug\SeguroAuto.csproj.AssemblyReference.cache
+C:\Users\Nano\source\repos\SeguroAuto\obj\Debug\SeguroAuto.Form1.resources
+C:\Users\Nano\source\repos\SeguroAuto\obj\Debug\SeguroAuto.Properties.Resources.resources
+C:\Users\Nano\source\repos\SeguroAuto\obj\Debug\SeguroAuto.csproj.GenerateResource.cache
+C:\Users\Nano\source\repos\SeguroAuto\obj\Debug\SeguroAuto.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\SeguroAuto\bin\Debug\SeguroAuto.exe.config
+C:\Users\Nano\source\repos\SeguroAuto\bin\Debug\SeguroAuto.exe
+C:\Users\Nano\source\repos\SeguroAuto\bin\Debug\SeguroAuto.pdb
+C:\Users\Nano\source\repos\SeguroAuto\obj\Debug\SeguroAuto.exe
+C:\Users\Nano\source\repos\SeguroAuto\obj\Debug\SeguroAuto.pdb
